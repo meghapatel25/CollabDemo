@@ -2,3 +2,6 @@ This is collboration demo.
 okk
 helloooo
 1st demo file
+B-> repo-->create folder on system-->accept the invitation-->cd Collab
+-->git clone "file copy paste"-->ls-->cd filename-->vim filename-->git status-->git add .-->git commit"filename"-->git push origin main-->it is pushed in the github repo
+
